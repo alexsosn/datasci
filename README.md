@@ -1,4 +1,4 @@
 datasci
 =======
 
-Data analysis experiments and excersises.
+Data analysis experiments and excercises.
